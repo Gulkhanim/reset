@@ -1,0 +1,44 @@
+.mommy{
+    /* display: flex;
+    justify-content: space-between; */
+    height: 400px;
+    background-color: rgb(127, 140, 165);
+    position: relative;
+}
+    
+  .child{
+    position: fixed;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(192, 47, 136);
+    /* text-align: center; */
+    font-size: 25px;
+    color: aqua;
+    border: 2px solid rgb(199, 240, 19);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }  
+    
+.child-1{
+    top: 6%;
+    left: 2%;
+
+}
+
+.child-2{
+    top: 0;
+    right: -40px;
+}
+
+.child-3{
+    right: 20px;
+    bottom: -10px;
+  
+}
+
+.child-4{
+    bottom: 0;
+    
+}
+
